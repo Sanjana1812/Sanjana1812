@@ -51,6 +51,16 @@
     * [View Publication](https://ijirt.org/article?manuscript=171937)
 
 ---
+---
+
+## 🌟 Fun Facts
+
+- ⚡ **The Paradox:** I can debug a **PostgreSQL** deadlock in minutes, but I'll spend 45 minutes deciding what to eat for lunch.
+- 🤖 **Selective AI:** My **ResNet-50** model has **97.3% precision**; unfortunately, my internal GPS has a 0% success rate without Google Maps.
+- 🏍️ **The Refresh:** When not building e-commerce engines like **Ksheerabdhi**, I’m optimizing lean angles with my riding group.
+- ☕ **System Fuel:** Currently scaling with **Java**, though my biological OS runs entirely on **strong coffee** and curiosity.
+---
+---
 
 ## 📊 GitHub Analytics
 
