@@ -55,13 +55,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=padma-sanjana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanjana's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana1812&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanjana's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padma-sanjana&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1812&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=padma-sanjana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana1812&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
