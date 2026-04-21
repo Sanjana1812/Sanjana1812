@@ -61,6 +61,12 @@ I bridge the gap between academic research and practical software solutions.
 * [cite_start]**Multi-Agent AI System:** Developed during my internship to handle code correction and health tips using a custom AI framework[cite: 122, 126].
 
 ---
+---
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana1812&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana1812&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 <div align="center">
   <p><i>"Engineering seamless automation and high-quality user experiences."</i></p>
