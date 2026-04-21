@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Sanjana Parachuru</h1>
+  <h1>Hi there 👋, I'm Parachuru Padma Sanjana</h1>
   <p><h3>Full-Stack Developer | Software Engineer | AI Researcher</h3></p>
   <p>
     <a href="https://www.linkedin.com/in/padma-sanjana" target="_blank">
