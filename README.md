@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Sanjana Parachuru</h1>
+  <h1>Hi there 👋, I'm Paruchuru Padma Sanjana </h1>
   <p><h3>Full-Stack Developer | Software Engineer | AI Researcher</h3></p>
   <p>
     <a href="https://linkedin.com/in/padma-sanjana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
