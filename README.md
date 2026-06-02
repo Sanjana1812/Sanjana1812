@@ -15,7 +15,7 @@
 
 ## 🎓 About Me
 
-- 💻 **Full-Stack Developer** at **Tech Birds Consulting**, specialized in React, Python, and Java.
+- 💻 **Full-Stack Developer** at **Tech Birds Consulting**, specialized in React, Python.
 - 🎓 B.Tech in **Computer Science & Engineering** from **Presidency University, Bangalore**.
 - 🚀 Passionate about building high-performance e-commerce platforms and AI-driven automation.
 - 📚 Published Researcher in **Computer Vision** (ResNet-50) and **Edge AI**.
@@ -57,7 +57,7 @@
 - ⚡ **The Paradox:** I can debug a **PostgreSQL** deadlock in minutes, but I'll spend 45 minutes deciding what to eat for lunch.
 - 🤖 **Selective AI:** My **ResNet-50** model has **97.3% precision**; unfortunately, my internal GPS has a 0% success rate without Google Maps.
 - 🏍️ **The Refresh:** When not building e-commerce engines like **Ksheerabdhi**, I’m optimizing lean angles with my riding group.
-- ☕ **System Fuel:** Currently scaling with **Java**, though my biological OS runs entirely on **strong coffee** and curiosity.
+- ☕ **System Fuel:** Currently scaling with **Python**, though my biological OS runs entirely on **strong coffee** and curiosity.
 ---
 
 ## 📊 GitHub Analytics
