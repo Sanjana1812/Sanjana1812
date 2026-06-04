@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Parachuru Padma Sanjana</h1>
-  <p><h3>Full-Stack Developer | Software Engineer | AI Researcher</h3></p>
+  <p><h3>Full-Stack Developer | Software Engineer | AI Researcher</h3></p> 
   <p>
     <a href="https://www.linkedin.com/in/padma-sanjana" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
